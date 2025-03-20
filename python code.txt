@@ -22,7 +22,7 @@
      return len(stack) == 0
 ---------------------------------------------------------------------
 
-3.  def group_anagrams(words: list) -> list:
+5.  def group_anagrams(words: list) -> list:
    anagram_groups = {}
 
    for word in words:
